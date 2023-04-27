@@ -10,15 +10,17 @@
 
 ## 🤯 Problema 
 
-Tu mejor amigo esta cursando la carrera de Ingeniería en electronica en la UCU, como sabe que tu haces informática pide tu ayuda para que desarrolles un programa que le permita de manera rápida evaluar el resultado de un circuito basado compuertas lógicas. Para apoyarte en la solución del problema tu amigo te comparte el siguiente [repositorio](https://github.com/ucudal/PII_PythonToCSharp_Compuertas) donde tiene una implementación en python 🐍 de parte del problema.
+Tu mejor amigo esta cursando la carrera de Ingeniería en Electrónica en la UCU, como sabe que tu haces Informática, pide tu ayuda para que desarrolles un programa que le permita de manera rápida, evaluar el resultado de un circuito basado compuertas lógicas. 
+
+Para apoyarte en la solución del problema, tu amigo te comparte el siguiente [repositorio](https://github.com/ucudal/PII_PythonToCSharp_Compuertas) donde tiene una implementación en python 🐍 de parte del problema.
 
 ### Consideraciones
 
-* Para este problema tu amigo te pide que  modeles las tres compuertas lógicas básicas And, Or, Not.
+* Para este problema tu amigo te pide que modeles las tres compuertas lógicas básicas And, Or, Not.
 
-* Recuerda que hay que compuertas las que deben tener al menos dos entradas para poder ser utilizada.
+* Recuerda que hay compuertas que deben tener al menos dos entradas para poder funcionar, pero otras necesitan solo una entrada.
 
-* Ten en cuenta que las compuertas pueden ser conectables unas con otras, es decir en la entrada cada compuerta debemos tener un valor lógico bien como resultado de la evaluación parcial del circuito que precede a la compuerta o bien por la presencia del valor directo. 
+* Ten en cuenta que las compuertas pueden ser conectables unas con otras, es decir, como entrada, cada compuerta puede tener o bien el resultado de la evaluación parcial del circuito que la precede o un valor lógico. 
 
 
 ## 🏋️‍♀️ Desafío
