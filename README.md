@@ -1,12 +1,11 @@
 ![UCU](https://github.com/ucudal/PII_Conceptos_De_POO/raw/master/Assets/logo-ucu.png)
-
+# Compuertas lógicas
+## Programación II
 ### FIT - Universidad Católica del Uruguay
 
 ![Banner](./Assets/banner.jpeg)
 
 <br>
-
-# Compuertas Lógicas
 
 ## 🤯 Problema
 
